@@ -25,7 +25,7 @@ You can read more about it [here](https://github.com/silverspoon19931120/silvers
 
 - 📫 How to reach me **silverspoon19931120@gmail.com**
 
-- 📄 Check out my [resume](https://drive.google.com/file/d/1isgVRHgQfFNlR0PMAkYDfZStEFx4FIFO/view?usp=sharing)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1sIEtxrUW0NPUEUkxGxtNWaJNmGyixgdQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
