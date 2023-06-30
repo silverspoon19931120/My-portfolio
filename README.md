@@ -23,7 +23,7 @@ You can read more about it [here](https://github.com/silverspoon19931120/silvers
 
 - 💬 Ask me about **react, react native, Blockchain**
 
-- 📫 How to reach me **silverspoon19931120@gmail.com**
+- 📫 How to reach me **silverspoon19931120@gmail.com**, **skype: live:.cid.196129ea5069b37b**, **tele: SilverSpoon19931120**, **Silver Spoon#3255**
 
 - 📄 Check out my [resume](https://drive.google.com/file/d/1sIEtxrUW0NPUEUkxGxtNWaJNmGyixgdQ/view?usp=sharing)
 
