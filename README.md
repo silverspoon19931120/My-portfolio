@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdullah Gumi</h1>
-<h3 align="center">Dedicated React developer hailing from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Felix Walton</h1>
+<h3 align="center">Dedicated React developer hailing from Germany</h3>
 
-Highly motivated and experienced React | React Native
+Highly motivated and experienced React | React Native, Blockchain
 Developer with a strong work ethic focused on delivering value
 and gaining industry knowledge. Proficient in Frontend and
 Backend development utilizing technologies such as React,
-Node, and TypeScript.
+Node, and TypeScript, Web3.js.
 <br/>
 <br/>
 
@@ -21,11 +21,11 @@ You can read more about it [here](https://github.com/silverspoon19931120/silvers
 
 - 👨‍💻 All of my projects are available at My [portfolio](https://abdullahgumi.vercel.app/)
 
-- 💬 Ask me about **react, react native**
+- 💬 Ask me about **react, react native, Blockchain**
 
-- 📫 How to reach me **abdulgumi77@gmail.com**
+- 📫 How to reach me **silverspoon19931120@gmail.com**, **skype: live:.cid.196129ea5069b37b**, **tele: SilverSpoon19931120**, **discord: Silver Spoon#3255**
 
-- 📄 Check out my [resume](https://drive.google.com/file/d/1isgVRHgQfFNlR0PMAkYDfZStEFx4FIFO/view?usp=sharing)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1sIEtxrUW0NPUEUkxGxtNWaJNmGyixgdQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
