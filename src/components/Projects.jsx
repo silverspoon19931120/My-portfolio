@@ -14,6 +14,11 @@ import divvyImage from "../assets/images/divvy.jpg";
 import solseaImage from "../assets/images/solsea.jpg";
 import accelerlistImage from "../assets/images/ACCELERLIST.jpg";
 import VENCRUImage from "../assets/images/VENCRU.jpg";
+import AUTOMA8Image from "../assets/images/AUTOMA8.jpg";
+import BOUNTYHIVEImage from "../assets/images/BOUNTYHIVE.jpg";
+import KOMBATLINKImage from "../assets/images/KOMBATLINK.jpg";
+import SKUSUITEImage from "../assets/images/SKUSUITE.jpg";
+
 
 const items = [
   {
@@ -87,7 +92,7 @@ const items = [
   },
   {
     name: "ACCELERLIST",
-    details: "Responsible for developing one of the best third-party Amazon listing software platforms for most sellers, Platform is less expensive, faster, and provides additional listing features than competitors within the market, Worked directly with clients to identify business opportunities and strategies throughout platform development, Conducted market research and developed the platform architecture for frontend and backend programming",
+    details: "Responsible for developing one of the best third-party Amazon listing software platforms for most sellers, Platform is less expensive, faster.",
     image: accelerlistImage,
     site: "https://www.accelerlist.com/",
     showCode: true,
@@ -102,6 +107,42 @@ const items = [
     showCode: true,
     showSite: true,
     techStack: "ASP.NET backend and AngularJS",
+  },
+  {
+    name: "AUTOMA8",
+    details: "Handled designing system infrastructure, solving all technical problems by analyzing 20+ technology systems in place and worked to consolidate them with 1 new system that encompassed all programs needed to reach business needs. ",
+    image: AUTOMA8Image,
+    site: "https://aevent.com/",
+    showCode: true,
+    showSite: true,
+    techStack: "Redis, Azure Messaging(Amazon SQS), Apache Kafka, Restful API, API Integration, Powershell & Python Automation, Http Live Streaming, P2P WebSocket, PHP(Laravel), C#, Vue.JS, Multi Tenant",
+  },
+  {
+    name: "BOUNTYHIVE",
+    details: "Released the most complex and fully featured Bounty Hunting platform, connecting ICOs and Bounty Hunters",
+    image: BOUNTYHIVEImage,
+    site: "https://bountyhive.io/",
+    showCode: true,
+    showSite: true,
+    techStack: "Delivered an industry leading platform to revolutionize the content while exceeding client expectations",
+  },
+  {
+    name: "KOMBATLINK",
+    details: "Developed the free-to-join online eSports community to compete against players from around the world ",
+    image: KOMBATLINKImage,
+    site: "https://kombatlink.com/",
+    showCode: true,
+    showSite: true,
+    techStack: "Upgraded website, resolved issues and added features to be supported with latest responsive design strategies",
+  },
+  {
+    name: "SKUSUITE",
+    details: "Developed platform to offer complete cloud-based software solution to facilitate B2B and B2C integration",
+    image: SKUSUITEImage,
+    site: "https://www.skusuite.com/",
+    showCode: true,
+    showSite: true,
+    techStack: "Improved overall efficiency in order processing and shipping from most popular marketplaces and shopping carts",
   }
 ];
 
