@@ -19,7 +19,7 @@ You can read more about it [here](https://github.com/silverspoon19931120/silvers
 
 - 🌱 I’m currently playing with **GO**
 
-- 👨‍💻 All of my projects are available at My [portfolio](https://felixwalton.netlify.app/)
+- 👨‍💻 All of my projects are available at My [portfolio](https://abdullahgumi.vercel.app/)
 
 - 💬 Ask me about **react, react native, Blockchain**
 
