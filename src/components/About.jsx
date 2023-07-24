@@ -10,7 +10,7 @@ function About() {
     <div className="relative w-full">
       <div className="w-full my-10 ">
         <SubHeader
-          title="THE PORTFOLIO OF Felix Walton"
+          title="THE PORTFOLIO OF Jian Zheng"
           leftText={"Vol.1 Ch.1"}
         />
       </div>

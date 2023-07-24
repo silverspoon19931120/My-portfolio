@@ -114,7 +114,7 @@ function Contact() {
         style={{ fontFamily: "Alegreya SC" }}
         className="text-center max-w-md text-xl mb-10"
       >
-        According to reports, Felix Walton is consistently visiting the post
+        According to reports, Jian Zheng is consistently visiting the post
         office to check for any messages addressed to him.
       </span>
       <div className="md:w-[70%] w-full relative flex flex-col">

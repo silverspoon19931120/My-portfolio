@@ -27,7 +27,7 @@ function Navbar() {
           src={PortraitImage}
           className="w-[100px] h-auto md:w-[280px] sm:w-[180px]"
         />
-        <span className="md:text-8xl text-lg">Felix Walton</span>
+        <span className="md:text-8xl text-lg">Jian Zheng</span>
       </div>
       <div className="sm:flex gap-x-14 items-center hidden mb-16">
         {navItems.map((item) => (
