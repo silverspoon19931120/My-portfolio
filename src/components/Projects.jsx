@@ -97,7 +97,7 @@ const items = [
     site: "https://www.accelerlist.com/",
     showCode: true,
     showSite: true,
-    techStack: "Utilized React Project with Python and Flask Backend to connect with Print Devices in order to maintain function , Established Firmware and relied upon C++ and Python for Printers, including the commonly used Dymo and Zebra",
+    techStack: "React, Python, Dymo, Zebra",
   },
   {
     name: "VENCRU",
