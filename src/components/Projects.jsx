@@ -60,7 +60,6 @@ const items = [
     name: "Smart box",
     details: "React app that uses AI to detect faces and apparels in an image.",
     image: SmartboxImage,
-    code: "https://github.com/silverspoon19931120/smart-box",
     site: "https://silverspoon19931120.github.io/smart-box/",
     showCode: true,
     showSite: true,
@@ -70,7 +69,6 @@ const items = [
     name: "DIVVY",
     details: "Created the Betting pool and House Pool and minted House Token. Cron jobs with Sportsdata.io and feeds account on Switchboard. Development about market and settle bet",
     image: divvyImage,
-    code: "https://divvy.bet/",
     site: "https://divvy.bet/",
     showCode: true,
     showSite: true,
@@ -95,7 +93,6 @@ function Projects() {
             details={item.details}
             image={item.image}
             site={item.site}
-            code={item.code}
             showCode={item.showCode}
             showSite={item.showSite}
             techStack={item.techStack}
