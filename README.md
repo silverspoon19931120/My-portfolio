@@ -25,7 +25,7 @@ You can read more about it [here](https://github.com/silverspoon19931120/silvers
 
 - 📫 How to reach me **silverspoon19931120@gmail.com**, **skype: live:.cid.196129ea5069b37b**, **tele: SilverSpoon19931120**, **discord: Silver Spoon#3255**
 
-- 📄 Check out my [resume](https://drive.google.com/file/d/1sIEtxrUW0NPUEUkxGxtNWaJNmGyixgdQ/view?usp=sharing)
+- 📄 Check out my [resume](https://drive.google.com/file/d/13mvzgVM5rVY6aFs2lY5ZKpt-9n_9I_iq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
