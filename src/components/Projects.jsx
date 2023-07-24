@@ -11,7 +11,9 @@ import EtijarImage from "../assets/images/etijar.png";
 import Gee2Image from "../assets/images/gee2.png";
 import SmartboxImage from "../assets/images/smartbox.png";
 import divvyImage from "../assets/images/divvy.jpg";
-
+import solseaImage from "../assets/images/solsea.jpg";
+import accelerlistImage from "../assets/images/ACCELERLIST.jpg";
+import VENCRUImage from "../assets/images/VENCRU.jpg";
 
 const items = [
   {
@@ -67,12 +69,39 @@ const items = [
   },
   {
     name: "DIVVY",
-    details: "Created the Betting pool and House Pool and minted House Token. Cron jobs with Sportsdata.io and feeds account on Switchboard. Development about market and settle bet",
+    details: "Created the Betting pool and House Pool and minted House Token and cron jobs with Sportsdata.io and feeds account on Switchboard and development about market and settle bet",
     image: divvyImage,
     site: "https://divvy.bet/",
     showCode: true,
     showSite: true,
     techStack: "Solana, Rust, React, Sportsdata, Switchboard, Git, Typescript, UnitTest",
+  },
+  {
+    name: "SOLSEA",
+    details: "-First NFT marketplace that enables creators to choose and embed licenses when they mint NFTs, Onesignal for marketing automation Analytics with Google, Working on Rust to develop distributed applications on Solana, Bootstrap for UI framework ,Built NFT marketplace by using SPL token",
+    image: solseaImage,
+    site: "https://solsea.io/",
+    showCode: true,
+    showSite: true,
+    techStack: "Rust, Solana, React, NodeJs, Git, Express, ",
+  },
+  {
+    name: "ACCELERLIST",
+    details: "Responsible for developing one of the best third-party Amazon listing software platforms for most sellers, Platform is less expensive, faster, and provides additional listing features than competitors within the market, Worked directly with clients to identify business opportunities and strategies throughout platform development, Conducted market research and developed the platform architecture for frontend and backend programming",
+    image: accelerlistImage,
+    site: "https://www.accelerlist.com/",
+    showCode: true,
+    showSite: true,
+    techStack: "Utilized React Project with Python and Flask Backend to connect with Print Devices in order to maintain function , Established Firmware and relied upon C++ and Python for Printers, including the commonly used Dymo and Zebra",
+  },
+  {
+    name: "VENCRU",
+    details: "Collaborated and coordinated development of platform to manage business operations and client facing needs, Platform captures client information, tracks inventory, sends invoices, and processes payments",
+    image: VENCRUImage,
+    site: "https://www.vencru.com/",
+    showCode: true,
+    showSite: true,
+    techStack: "ASP.NET backend and AngularJS",
   }
 ];
 
