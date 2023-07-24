@@ -68,13 +68,13 @@ const items = [
   },
   {
     name: "DIVVY",
-    details: "React app that uses AI to detect faces and apparels in an image.",
+    details: "Created the Betting pool and House Pool and minted House Token. Cron jobs with Sportsdata.io and feeds account on Switchboard. Development about market and settle bet",
     image: divvyImage,
     code: "https://divvy.bet/",
     site: "https://divvy.bet/",
     showCode: true,
     showSite: true,
-    techStack: "✅Created the Betting pool and House Pool and minted House Token ✅Cron jobs with Sportsdata.io and feeds account on Switchboard✅Development about market and settle bet✅Technology: Solana, Rust, React, Sportsdata, Switchboard, Git, Typescript, UnitTest",
+    techStack: "Solana, Rust, React, Sportsdata, Switchboard, Git, Typescript, UnitTest",
   }
 ];
 
