@@ -110,7 +110,7 @@ const items = [
   },
   {
     name: "AUTOMA8",
-    details: "Handled designing system infrastructure, solving all technical problems by analyzing 20+ technology systems in place and worked to consolidate them with 1 new system that encompassed all programs needed to reach business needs. ",
+    details: "P2P development, utilized WebTorrent and BitTorrent for decentralized streaming.",
     image: AUTOMA8Image,
     site: "https://aevent.com/",
     showCode: false,

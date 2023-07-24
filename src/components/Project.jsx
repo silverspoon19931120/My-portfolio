@@ -46,12 +46,6 @@ const Project = ({
               <Button title={"visit site"} />
             </a>
           )}
-          {showCode && (
-            <a target="_blank" className="outline-none" href={code}>
-              {/* This is a custom button and it is used everywhere on the site instead of replicating the same css, that is why it is a child of <a> tag */}
-              <Button title={"Inspect code"} />
-            </a>
-          )}
         </div>
       </div>
     </div>
